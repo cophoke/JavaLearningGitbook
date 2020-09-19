@@ -4,8 +4,8 @@
 
 ## Spring
 
-* [Spring](spring/spring/README.md)
-  * [Springmvc](spring/spring/springmvc.md)
+* [Spring](spring/spring.md)
+* [Springmvc](spring/springmvc.md)
 
 ## Web
 
